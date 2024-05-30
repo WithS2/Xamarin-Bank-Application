@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="S_Bank.MainPage"
+             BackgroundColor="#112B47">
+
+    <StackLayout>
+        <Label x:Name="userNameLabel" HorizontalOptions="CenterAndExpand" FontSize="18" TextColor="White"/>
+        <Button Text="View Account Balance" Clicked="ViewBalanceButton_Clicked" 
+                VerticalOptions="CenterAndExpand"
+                TextColor="White"
+                BackgroundColor="Transparent"
+                BorderColor="ForestGreen"
+                BorderWidth="1.5"
+                CornerRadius="50"/>
+        <Button Text="Transfer Funds" Clicked="TransferFundsButton_Clicked" 
+                TextColor="White"
+                BackgroundColor="Transparent"
+                BorderColor="ForestGreen"
+                BorderWidth="1.5"
+                CornerRadius="50"/>
+        <Button Text="Logout" Clicked="LogoutButton_Clicked" 
+                VerticalOptions="CenterAndExpand"
+                HorizontalOptions="CenterAndExpand"
+                TextColor="White"
+                BackgroundColor="Transparent"
+                BorderColor="ForestGreen"
+                BorderWidth="1.5"
+                CornerRadius="50"/>
+    </StackLayout>
+
+</ContentPage>

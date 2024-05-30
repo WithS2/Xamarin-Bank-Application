@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="S_Bank.Registration_Page"
+             BackgroundColor="#112B47">
+    <ContentPage.Content>
+        <StackLayout Padding="40" VerticalOptions="Center" HorizontalOptions="FillAndExpand">
+            <Label Text="Register An Account Today!" HorizontalOptions="Center" FontSize="Title" TextColor="White">
+            </Label>
+
+            <Entry Placeholder="First Name" x:Name="FirstNameEntry" TextColor="White" PlaceholderColor="Gray" />
+            <Entry Placeholder="Last Name" x:Name="LastNameEntry"   TextColor="White" PlaceholderColor="Gray"/>
+            <Entry Placeholder="Email" x:Name="EmailEntry"          TextColor="White" PlaceholderColor="Gray"/>
+            <Entry Placeholder="Password" x:Name="PasswordEntry" IsPassword="True" TextColor="White" PlaceholderColor="Gray"/>
+            <Entry Placeholder="Mobile Number" x:Name="MobileEntry" TextColor="White" PlaceholderColor="Gray"/>
+            
+            <Picker x:Name="GenderPicker" Title="Select Gender">
+                <Picker.Items>
+                    <x:String>Male</x:String>
+                    <x:String>Female</x:String>
+                    <x:String>Other</x:String>
+                </Picker.Items>
+            </Picker>
+
+            <Button Text="Register" Clicked="RegisterButton_Clicked"                 
+                VerticalOptions="Center"
+                TextColor="White"
+                BackgroundColor="Transparent"
+                BorderColor="ForestGreen"
+                BorderWidth="1.5"
+                CornerRadius="50"/>
+            
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

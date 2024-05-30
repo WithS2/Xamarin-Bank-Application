@@ -1,0 +1,19 @@
+C:\Users\Mxolisi\OneDrive\Desktop\Attempt 3\S Bank\S Bank\bin\Debug\netstandard2.0\S Bank.deps.json
+C:\Users\Mxolisi\OneDrive\Desktop\Attempt 3\S Bank\S Bank\bin\Debug\netstandard2.0\S Bank.dll
+C:\Users\Mxolisi\OneDrive\Desktop\Attempt 3\S Bank\S Bank\bin\Debug\netstandard2.0\ref\S Bank.dll
+C:\Users\Mxolisi\OneDrive\Desktop\Attempt 3\S Bank\S Bank\bin\Debug\netstandard2.0\S Bank.pdb
+C:\Users\Mxolisi\OneDrive\Desktop\Attempt 3\S Bank\S Bank\obj\Debug\netstandard2.0\S Bank.csproj.AssemblyReference.cache
+C:\Users\Mxolisi\OneDrive\Desktop\Attempt 3\S Bank\S Bank\obj\Debug\netstandard2.0\S Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mxolisi\OneDrive\Desktop\Attempt 3\S Bank\S Bank\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Mxolisi\OneDrive\Desktop\Attempt 3\S Bank\S Bank\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Mxolisi\OneDrive\Desktop\Attempt 3\S Bank\S Bank\obj\Debug\netstandard2.0\Registration Page.xaml.g.cs
+C:\Users\Mxolisi\OneDrive\Desktop\Attempt 3\S Bank\S Bank\obj\Debug\netstandard2.0\S Bank.AssemblyInfoInputs.cache
+C:\Users\Mxolisi\OneDrive\Desktop\Attempt 3\S Bank\S Bank\obj\Debug\netstandard2.0\S Bank.AssemblyInfo.cs
+C:\Users\Mxolisi\OneDrive\Desktop\Attempt 3\S Bank\S Bank\obj\Debug\netstandard2.0\S Bank.csproj.CoreCompileInputs.cache
+C:\Users\Mxolisi\OneDrive\Desktop\Attempt 3\S Bank\S Bank\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Mxolisi\OneDrive\Desktop\Attempt 3\S Bank\S Bank\obj\Debug\netstandard2.0\S Bank.dll
+C:\Users\Mxolisi\OneDrive\Desktop\Attempt 3\S Bank\S Bank\obj\Debug\netstandard2.0\refint\S Bank.dll
+C:\Users\Mxolisi\OneDrive\Desktop\Attempt 3\S Bank\S Bank\obj\Debug\netstandard2.0\S Bank.pdb
+C:\Users\Mxolisi\OneDrive\Desktop\Attempt 3\S Bank\S Bank\obj\Debug\netstandard2.0\LoginPage.xaml.g.cs
+C:\Users\Mxolisi\OneDrive\Desktop\Attempt 3\S Bank\S Bank\obj\Debug\netstandard2.0\AccountsPage.xaml.g.cs
+C:\Users\Mxolisi\OneDrive\Desktop\Attempt 3\S Bank\S Bank\obj\Debug\netstandard2.0\TransferPage.xaml.g.cs

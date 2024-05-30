@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="S_Bank.AccountsPage"
+             BackgroundColor="#112B47">
+    
+    <ContentPage.Content>
+        <StackLayout Padding="20">
+            <Label Text="Accounts Page" HorizontalOptions="CenterAndExpand"  FontSize="24" TextColor="White" />
+
+            <!-- Display user information -->
+            <Label x:Name="userNameLabel" HorizontalOptions="CenterAndExpand" FontSize="18" TextColor="White"/>
+            <Label x:Name="userSurnameLabel" HorizontalOptions="CenterAndExpand" FontSize="18" TextColor="White"/>
+            <Label x:Name="accountBalanceLabel" HorizontalOptions="CenterAndExpand" FontSize="18" TextColor="White" />
+            <Label x:Name="savingsBalanceLabel" HorizontalOptions="CenterAndExpand" FontSize="18" TextColor="White" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
