@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using SQLite;
 using Xamarin.Forms;
-//Apologies for the mess. Its alot considering the project specification
+//
 namespace S_Bank
 {
     internal class Database_Connection
